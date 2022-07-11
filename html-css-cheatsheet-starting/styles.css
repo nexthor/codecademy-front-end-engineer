@@ -1,0 +1,40 @@
+body {
+	font-family: 'Lato', sans-serif;
+	padding: 20px;
+}
+
+h1 {
+	font-weight: 700;
+	font-size: 32px;
+	margin: 30px 0;
+}
+
+p {
+	margin-bottom: 30px;
+}
+
+table th {
+	font-weight: bold;
+	text-align: left;
+	background-color: #f0f0f0;
+	border-bottom: 3px solid rgba(0, 0, 0, 0.1);
+}
+
+td, th {
+	padding: 20px 40px;
+	margin: 2px 1px;
+	border: 1px solid rgb(243, 242, 242);
+	line-height: 1.5;
+}
+
+td.html-tag {
+	font-weight: bold;
+	color: rgb(4, 64, 177);
+	background-color: #f9f9f9;
+}
+
+strong {
+	font-weight: bold;
+	background-color: #f7f7f7;
+	padding: 2px 5px;
+}
